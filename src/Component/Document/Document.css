@@ -1,0 +1,13 @@
+
+.document-container{
+    margin: 100px 200px;
+}
+.upload-file{
+    text-align: end;
+    margin: 10px;
+}
+.uplaod{
+    border: none;
+    background-color: blue;
+    color: white;
+}
